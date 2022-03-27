@@ -1,0 +1,1 @@
+{"name":"Local: 3","url":"c:\\Users\\pc\\Desktop\\Codeforces\\googlecodejam\\3.cpp","tests":[{"id":1648307908784,"input":"\n6\n1 3 10\n4 5 10\n3 4 10\n4 6 20\n2 3 30","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\pc\\Desktop\\Codeforces\\googlecodejam\\3.cpp","group":"local","local":true}
